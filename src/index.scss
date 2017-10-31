@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+$font-family: 'Lato', sans-serif;
+
+html {
+  background: linear-gradient(90deg, #B993D6 , #8CA6DB);
+  height: 100vh;
+  overflow: hidden;
+}
+
+p,
+span {
+  display: inline-block;
+}
+
+.center {
+  text-align: center;
+}

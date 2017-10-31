@@ -1,0 +1,20 @@
+$width: 375px;
+$height: 667px;
+$margin: 15px auto;
+$bg-color: rgba(155, 89, 182, .4);
+$shadow: 0 0 150px rgba(0, 0, 0, 1);
+
+.content{
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	width: $width;
+	height: $height;
+	margin: $margin;
+	box-shadow: $shadow;
+}
+
+.bg-color{
+	background-color: $bg-color;
+	width: 100%;
+	height: 100%;
+}
